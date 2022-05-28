@@ -1,4 +1,0 @@
-make: Entering directory `/Users/davidtran/Code/go/micro-go/go-grpc-api-gateway'
-protoc pkg/**/pb/*.proto --go-grpc_out=. --go_out=.
-make: Leaving directory `/Users/davidtran/Code/go/micro-go/go-grpc-api-gateway'
- 
